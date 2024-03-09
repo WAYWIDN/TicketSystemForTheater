@@ -10,7 +10,7 @@ int main()
     // Purchase tickets
     theater.PurchaseTicket("Alice");
     theater.PurchaseTicket("Bob");
-    theater.ReserveTicket("Charlie", 4); // Assuming seat number should start from 0
+    theater.ReserveTicket("Charlie", 4);
     theater.PurchaseVIPTicket("Dave", 8);
     theater.PurchaseTicket("Eve");
     theater.PurchaseTicket("Frank");
@@ -25,10 +25,8 @@ int main()
         theater.PurchaseTicket("Guest" + to_string(i));
     }
 
-    // Try to purchase a ticket when theater is full
-
     // Cancel tickets and purchase
-    theater.CancelTicket(5); // Assuming "Charlie" was assigned seat number 4
+    theater.CancelTicket(5);
     theater.CancelTicket(11);
     theater.PurchaseTicket("Ivy");
 
