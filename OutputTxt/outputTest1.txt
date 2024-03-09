@@ -1,0 +1,37 @@
+# Normal Ticket : 
+Name : Alice
+Seat Number : 6
+-----------------------------------------------------
+
+# VIP Ticket : 
+Name : Charlie
+Seat Number : 12
+-----------------------------------------------------
+
+# Reserved Ticket : 
+Name : Dave
+Seat Number : 7
+-----------------------------------------------------
+
+Ticket with seat number 1 not found or already entered in the Theater
+-----------------------------------------------------
+
+# Ticket : 
+Name : Dave
+Seat Number : 7
+Successfully Canceled 
+-----------------------------------------------------
+
+Entry Started ---------> 
+
+Charlie entered the theater , Seat Number: 12
+Alice entered the theater , Seat Number: 6
+
+<-----------Entry Closed
+
+-----------------------------------------------------
+
+# Ticket : 
+Name : Grace
+Seat Number : 4
+-----------------------------------------------------

@@ -1,0 +1,150 @@
+# Normal Ticket : 
+Name : Alice
+Seat Number : 0
+-----------------------------------------------------
+
+# Normal Ticket : 
+Name : Bob
+Seat Number : 1
+-----------------------------------------------------
+
+# Reserved Ticket : 
+Name : Charlie
+Seat Number : 4
+-----------------------------------------------------
+
+# VIP Ticket : 
+Name : Dave
+Seat Number : 8
+-----------------------------------------------------
+
+# Normal Ticket : 
+Name : Eve
+Seat Number : 2
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Frank
+Seat Number : 3
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Grace
+Seat Number : 5
+-----------------------------------------------------
+
+Entry Started --------->
+
+Dave entered the theater , Seat Number: 8
+Alice entered the theater , Seat Number: 0
+Bob entered the theater , Seat Number: 1
+Charlie entered the theater , Seat Number: 4
+Eve entered the theater , Seat Number: 2
+Frank entered the theater , Seat Number: 3
+Grace entered the theater , Seat Number: 5
+
+<-----------Entry Closed
+
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest0
+Seat Number : 6
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest1
+Seat Number : 7
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest2
+Seat Number : 9
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest3
+Seat Number : 10
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest4
+Seat Number : 11
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest5
+Seat Number : 12
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest6
+Seat Number : 13
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest7
+Seat Number : 14
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest8
+Seat Number : 15
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest9
+Seat Number : 16
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest10
+Seat Number : 17
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest11
+Seat Number : 18
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Guest12
+Seat Number : 19
+-----------------------------------------------------
+
+Ticket with seat number 5 not found or already entered in the Theater
+-----------------------------------------------------
+
+# Ticket :
+Name : Guest4
+Seat Number : 11
+Successfully Canceled
+-----------------------------------------------------
+
+# Normal Ticket :
+Name : Ivy
+Seat Number : 11
+-----------------------------------------------------
+
+Entry Started --------->
+
+Guest0 entered the theater , Seat Number: 6
+Guest1 entered the theater , Seat Number: 7
+Guest2 entered the theater , Seat Number: 9
+Guest3 entered the theater , Seat Number: 10
+Guest5 entered the theater , Seat Number: 12
+Guest6 entered the theater , Seat Number: 13
+Guest7 entered the theater , Seat Number: 14
+Guest8 entered the theater , Seat Number: 15
+Guest9 entered the theater , Seat Number: 16
+Guest10 entered the theater , Seat Number: 17
+Guest11 entered the theater , Seat Number: 18
+Guest12 entered the theater , Seat Number: 19
+Ivy entered the theater , Seat Number: 11
+
+<-----------Entry Closed
+
+-----------------------------------------------------
+
+Theater is FULL
+-----------------------------------------------------
